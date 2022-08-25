@@ -1,0 +1,15 @@
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.exe
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.deps.json
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.runtimeconfig.json
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.dll
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.pdb
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.csproj.AssemblyReference.cache
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.AssemblyInfoInputs.cache
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.AssemblyInfo.cs
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.csproj.CoreCompileInputs.cache
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.dll
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\refint\FactoryExercise.dll
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.pdb
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.genruntimeconfig.cache
+C:\Users\steel\OneDrive\Desktop\Repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\ref\FactoryExercise.dll
